@@ -1,7 +1,7 @@
 ---
 name: Bug report (Game Plugin)
 about: Report an issue with any of our game plugins
-title: ''
+title: '[PLUGIN NAME HERE] <Issue Title Here>'
 labels: bug
 assignees: ''
 
